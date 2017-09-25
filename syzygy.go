@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
+	startApi()
 	fmt.Println("hello, world")
+	fmt.Scanln()
 }
